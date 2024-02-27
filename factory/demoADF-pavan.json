@@ -1,0 +1,9 @@
+{
+	"name": "demoADF-pavan",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1dac76a9-a353-4f78-a81d-a0e611172e5f",
+		"tenantId": "951ab8c7-c718-4fd7-a0ae-1378cd6ecd43"
+	}
+}
